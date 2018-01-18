@@ -25,6 +25,7 @@ g++ -o client client.cpp
 NASM compile assembly:
 
 nasm -f elf -o asm1.o asm1.asm
+
 gcc -o asm1 asm1.o
 
 gcc -m32 -o asm1 asm1.o (Alternative-sudo apt-get install gcc-multilib﻿)
