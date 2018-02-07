@@ -48,4 +48,5 @@ CSEDU Login:
      2015-118-723@student.cse.du.ac.bd
         
 Accessing Ubuntu as Root:
+    
      gksudo nautilus
