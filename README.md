@@ -50,3 +50,7 @@ CSEDU Login:
 Accessing Ubuntu as Root:
     
      gksudo nautilus
+
+Failed to Mount
+
+    sudo mount -o rw /dev/sdXY
