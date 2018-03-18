@@ -54,3 +54,7 @@ Accessing Ubuntu as Root:
 Failed to Mount
 
     sudo mount -o rw /dev/sdXY
+
+DNS Server Link:
+
+    https://www.ostechnix.com/install-and-configure-dns-server-ubuntu-16-04-lts/
