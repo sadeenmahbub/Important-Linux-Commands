@@ -53,7 +53,7 @@ Accessing Ubuntu as Root:
 
 Failed to Mount
 
-    sudo mount -o rw /dev/sdXY
+    sudo ntfsfix /dev/sdXY
 
 DNS Server Link:
 
